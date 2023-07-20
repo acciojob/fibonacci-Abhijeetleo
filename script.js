@@ -1,10 +1,10 @@
 function fibonacci(num) {
 // your code here
-	if(n==1)
+	if(num==1)
 	{
 		return 0;
 	}
-	if(n==2)
+	if(num==2)
 	{
 		return 1;
 	}
